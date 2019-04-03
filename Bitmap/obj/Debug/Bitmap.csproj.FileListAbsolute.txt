@@ -1,0 +1,14 @@
+C:\Users\28325\source\repos\Bitmap\bin\Debug\Bitmap.exe.config
+C:\Users\28325\source\repos\Bitmap\bin\Debug\Bitmap.exe
+C:\Users\28325\source\repos\Bitmap\bin\Debug\Bitmap.pdb
+C:\Users\28325\source\repos\Bitmap\obj\Debug\Bitmap.csprojAssemblyReference.cache
+C:\Users\28325\source\repos\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+C:\Users\28325\source\repos\Bitmap\obj\Debug\Bitmap.exe
+C:\Users\28325\source\repos\Bitmap\obj\Debug\Bitmap.pdb
+D:\Projects\OS\Bitmap\bin\Debug\Bitmap.exe.config
+D:\Projects\OS\Bitmap\bin\Debug\Bitmap.exe
+D:\Projects\OS\Bitmap\bin\Debug\Bitmap.pdb
+D:\Projects\OS\Bitmap\obj\Debug\Bitmap.csprojAssemblyReference.cache
+D:\Projects\OS\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+D:\Projects\OS\Bitmap\obj\Debug\Bitmap.exe
+D:\Projects\OS\Bitmap\obj\Debug\Bitmap.pdb
